@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Scanner;
 
-class Solution {
+class DistributeCandies {
     //575. Distribute Candies
     public int distributeCandies(int[] candyType) {
         HashSet<Integer> candy = new HashSet<>();
@@ -27,7 +27,7 @@ class Solution {
         for (int i = 0; i < candyList.size(); i++) {
             candyArray[i]=candyList.get(i);
         }
-        Solution solution = new Solution();
+        DistributeCandies solution = new DistributeCandies();
         int result = solution.distributeCandies(candyArray);
         System.out.println(result);
     }
