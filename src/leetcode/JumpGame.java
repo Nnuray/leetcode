@@ -1,3 +1,5 @@
+package leetcode;
+
 public class JumpGame {
     //55. Jump Game
     public boolean canJump(int[] nums) {
