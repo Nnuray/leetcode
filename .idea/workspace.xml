@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a861647-b957-47a9-b7bd-a91a19bd1b1b" name="Changes" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/MergeStringsAlternately.java" afterDir="false" />
+    <list default="true" id="0a861647-b957-47a9-b7bd-a91a19bd1b1b" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/CheckIfAllCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/FirstLetterAppearTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/С.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DistributeCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DistributeCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindFirstPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/FindFirstPalindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/salma/css 215/leetcode/src/leetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +55,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\salma\css 215\leetcode\src\leetcode" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +70,13 @@
       <updated>1695112690713</updated>
       <workItem from="1695112692260" duration="542000" />
       <workItem from="1695113380472" duration="3248000" />
-      <workItem from="1695191078546" duration="7939000" />
+      <workItem from="1695191078546" duration="7974000" />
+      <workItem from="1695211297968" duration="5213000" />
+      <workItem from="1695218063602" duration="3230000" />
+      <workItem from="1695287288143" duration="889000" />
+      <workItem from="1695288962544" duration="9000" />
+      <workItem from="1695292233979" duration="829000" />
+      <workItem from="1695382749541" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1695113455630</created>
@@ -90,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695116830134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1695209829033</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695209829033</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,8 +124,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
