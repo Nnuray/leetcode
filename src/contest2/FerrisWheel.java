@@ -1,6 +1,5 @@
-package contest;
+package contest2;
 
-import java.io.*;
 import java.util.*;
 
 public class FerrisWheel {

@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a861647-b957-47a9-b7bd-a91a19bd1b1b" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/contest/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/FerrisWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/SuffixArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/KokoEatingBananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/TwoSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/TwoSumInputArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/FerrisW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/MaxSubArrSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/MaxSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/StickLen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/StickLengths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contest/FerrisWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest2/FerrisWheel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,23 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.a" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BinarySearching" />
-        <item itemvalue="Application.a" />
         <item itemvalue="Application.MinimumExcluded" />
       </list>
     </recent_temporary>
@@ -157,7 +143,8 @@
       <workItem from="1698396580213" duration="1240000" />
       <workItem from="1698463451584" duration="1139000" />
       <workItem from="1698482636149" duration="11000" />
-      <workItem from="1698490606738" duration="3012000" />
+      <workItem from="1698490606738" duration="3044000" />
+      <workItem from="1698546705497" duration="6970000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1695113455630</created>
@@ -222,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697927066065</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1698493660818</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698493660818</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
