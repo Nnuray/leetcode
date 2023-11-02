@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a861647-b957-47a9-b7bd-a91a19bd1b1b" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/contest2/FerrisW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest2/MaxSubArrSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest2/MaxSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest2/StickLen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest2/StickLengths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/Apartments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/ConcertTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contest/FerrisWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest2/FerrisWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contest/C1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest/C1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,12 @@
       <workItem from="1698463451584" duration="1139000" />
       <workItem from="1698482636149" duration="11000" />
       <workItem from="1698490606738" duration="3044000" />
-      <workItem from="1698546705497" duration="6970000" />
+      <workItem from="1698546705497" duration="7728000" />
+      <workItem from="1698571418689" duration="3439000" />
+      <workItem from="1698649217253" duration="117000" />
+      <workItem from="1698759991320" duration="3785000" />
+      <workItem from="1698827317708" duration="1195000" />
+      <workItem from="1698918280502" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1695113455630</created>
@@ -216,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698493660818</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1698555425231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698555425231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
