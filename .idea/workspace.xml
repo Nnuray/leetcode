@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a861647-b957-47a9-b7bd-a91a19bd1b1b" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/contest2/Apartments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest2/ConcertTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/FactoryMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/Towers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contest2/TrafficLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contest/C1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest/C1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/salma/Desktop/GitHub/shoeStore&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/salma/css 215/leetcode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -149,7 +147,14 @@
       <workItem from="1698649217253" duration="117000" />
       <workItem from="1698759991320" duration="3785000" />
       <workItem from="1698827317708" duration="1195000" />
-      <workItem from="1698918280502" duration="1596000" />
+      <workItem from="1698918280502" duration="2721000" />
+      <workItem from="1699329312209" duration="46000" />
+      <workItem from="1699438254027" duration="605000" />
+      <workItem from="1699449359914" duration="21000" />
+      <workItem from="1699524568911" duration="1703000" />
+      <workItem from="1699536756031" duration="121000" />
+      <workItem from="1700039932920" duration="23000" />
+      <workItem from="1700129794242" duration="2196000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1695113455630</created>
@@ -228,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698555425231</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit">
+      <created>1698920155106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698920155106</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
